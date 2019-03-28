@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182456944989",
+    "firebase_url": "https://thta-firebase-testing.firebaseio.com",
+    "project_id": "thta-firebase-testing",
+    "storage_bucket": "thta-firebase-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182456944989:android:3b9ba511ab25b96e",
+        "android_client_info": {
+          "package_name": "com.thta.develop.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182456944989-2flllcb18fo03imk9dh8s80goo8742pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thta.develop.firebaseapp",
+            "certificate_hash": "c5209e5ebe11a0f96bbc27cffa10d9db527bb479"
+          }
+        },
+        {
+          "client_id": "182456944989-t0efob6du18be5rp16houlvqj5mcih7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJSwLoJeO2Z1_U9eRECtoXQM0n_f9PsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182456944989-t0efob6du18be5rp16houlvqj5mcih7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
